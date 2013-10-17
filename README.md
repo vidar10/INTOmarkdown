@@ -1,14 +1,18 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Vidar Einarsson
+
+Var einn að vinna þetta, en hef ég hefði verið í hóp með einhvejum þá hefði ég líklegast notað @
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Gekk nokkuð illa fyrst en síðan kom þetta smá saman. Ég installaði Ubuntu 13.04 og notaði virtualbox til að runna þetta.
+![Alt text](/home/ubuntu/Downloads/Ubuntu.jpg)
+
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Mjög vel. Þurfti bara að opna terminalinn með CTRL-ALT-T og notaði skipanirnar sudo apt-get install vim og sudo apt-get install git-core
 
 ## 3. Unnið með Git (1. hluti)
 
