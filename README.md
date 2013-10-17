@@ -12,17 +12,23 @@ Gekk nokkuð illa fyrst en síðan kom þetta smá saman. Ég installaði Ubuntu
 
 ## 2. Uppsetning á vim && git
 
-Mjög vel. Þurfti bara að opna terminalinn með CTRL-ALT-T og notaði skipanirnar sudo apt-get install vim og sudo apt-get install git-core
+Mjög vel. Þurfti bara að opna terminalinn með CTRL-ALT-T og notaði skipanirnar sudo apt-get install vim og sudo apt-get install git-core.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Mjög vel. Þurfti bara að opna terminalinn með CTRL-ALT-T og notaði skipanirnar sudo apt-get install vim og sudo apt-get Install git-core.
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+1. Mozilla firefox
+	Licence er Mozilla Public Liecense (MPL)
+	Http://www.mozilla.org/en-us/firefox/new/#download-fx
+2. VLC
+	GNU Lesser General Public Liecense
+	http://www.videolan.org/vlc/download-windows.htmal
+3. Audacity
+	Gnu Lesser General Public Liecense
+	http://audacity.sourceforge.net/download/windows
 
 ## 5. Unnið með Git (2. hluti)
 
