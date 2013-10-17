@@ -36,4 +36,4 @@ Hérna er verkefnið mitt. Ég breyti nú reyndar ekki miklu.. eina sem ég ger�
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Las einhverstaðar að það væri fínt að setja nokkur orð hérna. Þetta gekk allt að mestu leyti vel nema þetta með að setja inn myndina. Ég var bara því miður orðin svo þreyttur á þessu verkefni og fann fá svör við þessu þannig ég ákvað að setja bara link af myndinni (vonandi fæ ég eitthva fyrir það). Annars gekk þetta bara vel.. hægt en bara vel.
