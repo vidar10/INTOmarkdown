@@ -18,6 +18,9 @@ Mjög vel. Þurfti bara að opna terminalinn með CTRL-ALT-T og notaði skipanir
 
 Þetta gekk nokkuð brösulega fyrst en kom smátt og smátt. Byrjaði á því að búa til account og fara inná linkinn sem gefinn var upp. Þar var útskýrt mjög vel hvernig maður átti að forka þetta og það gekk mjög vel. Eftir það bjó ég til SSH lykill, var í smá verseni fyrst en síðan kom þetta allt þegar maður fylgi leiðbendingunum 100%.
 
+https://github.com/vidar10/INTOPrufa/blob/master/NIM.cpp
+
+Hérna er verkefnið mitt. Ég breyti nú reyndar ekki miklu.. eina sem ég gerði var cout Velkominn, thetta forrit er i bodi Vidars inní main fallið
 
 ## 4. Uppsettur hugbúnaður
 
