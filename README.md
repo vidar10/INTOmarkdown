@@ -7,7 +7,7 @@ Var einn að vinna þetta, en hef ég hefði verið í hóp með einhvejum þá 
 ## 1. Linux uppsetning
 
 Gekk nokkuð illa fyrst en síðan kom þetta smá saman. Ég installaði Ubuntu 13.04 og notaði virtualbox til að runna þetta.
-![Alt text](/home/ubuntu/Downloads/Ubuntu.jpg)
+![Alt text](/home/ubuntu/Downloads/Ubuntu.jpg "myndinn")
 
 
 ## 2. Uppsetning á vim && git
